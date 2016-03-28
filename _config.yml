@@ -1,0 +1,28 @@
+name: CareerBling
+favicon: null
+layout_spectrum: 0.8532748841680586
+typography_spectrum: 0.6425218770746142
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8178807138465345
+  lightness: 0.39258957747370005
+  saturation: 0.40860616019926965
+  rhythmicContrast: 0.1633645468391478
+purpose: []
